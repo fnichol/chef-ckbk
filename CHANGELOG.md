@@ -1,3 +1,10 @@
+## 0.2.5 / 2014-08-05
+
+### Improvements
+
+* Update project dependencies. ([@fnichol][])
+
+
 ## 0.2.4 / 2013-05-20
 
 ### Improvements
