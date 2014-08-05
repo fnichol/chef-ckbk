@@ -8,7 +8,6 @@ gem 'emeril'
 gem 'chef', (ENV['CHEF_VERSION'] || '>= 0.10.10')
 
 group :integration do
-  gem 'berkshelf'
-  gem 'test-kitchen', '~> 1.0.0.alpha.6'
+  gem 'test-kitchen'
   gem 'kitchen-vagrant'
 end
