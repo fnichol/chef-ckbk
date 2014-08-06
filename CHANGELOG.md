@@ -1,3 +1,10 @@
+## 0.2.6 / 2014-08-05
+
+### Improvements
+
+* Being better. ([@fnichol][])
+
+
 ## 0.2.5 / 2014-08-05
 
 ### Improvements
