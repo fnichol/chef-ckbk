@@ -1,3 +1,10 @@
+## 0.2.7 / 2014-08-06
+
+### Improvements
+
+* Pleasant verion number. ([@fnichol][])
+
+
 ## 0.2.6 / 2014-08-05
 
 ### Improvements
